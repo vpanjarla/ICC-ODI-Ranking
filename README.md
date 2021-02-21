@@ -1,2 +1,3 @@
 # ICC-ODI-Ranking
-Scraping of last 5 years ODI ranking data of Batting, Bowling and All rounder
+API Scraping of last 5 years ODI ranking data. (Batting, Bowling and All rounder)
+ODI ranking Visualisation in Streamlit
