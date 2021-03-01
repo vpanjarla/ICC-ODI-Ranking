@@ -31,7 +31,7 @@ st.write(f"You're looking at {x} players")
 
 
 
-# data = pd.read_csv('D:\\SAMUEL\\Ext Projects\\ICC Scraping\\CSvs\\final.csv').head(1000)
+# data = pd.read_csv('D:\\Admin\\Ext Projects\\ICC Scraping\\CSvs\\final.csv').head(1000)
 # st.dataframe(data)
 
 # XX = pd.DataFrame(
